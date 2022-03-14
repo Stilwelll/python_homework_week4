@@ -1,0 +1,4 @@
+2 Bugs. 
+
+1. Stand does not work correctly
+2. Quit does not work correctly
